@@ -5,9 +5,9 @@
 # Site
 title: imagine
 subtitle: you not genius ,so become genius.
-description:
+description: less is more
 author: imagine243
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,3 +73,6 @@ deploy:
   repo: https://github.com/imagine243/imagine243.github.com.git
   branch: master
   message: new blog
+
+# avatar
+avatar: /uploads/avatar.jpg
