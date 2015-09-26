@@ -14,7 +14,7 @@ categories : http
 
 ### URI的百分号编码
 URI中分为保留字和非保留字，保留字是有特殊含义的字段.
-![image](uploads/url_encode_keyword.png)
+![image](/uploads/url_encode_keyword.png)
 
 对于保留字可以采用百分号编码，首先需要把该字符的ASCII的值表示为两个16进制的数字，然后在其前面放置转义字符“％”。
 未保留字也可以采用相同的方式来编码，字符当前的标准是把字符专为UTF－8字序，然后对每个字节百分号编码，下面参考文档的链接就是这样。
