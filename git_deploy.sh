@@ -1,5 +1,7 @@
 #!/bin/sh
 
+git pull 
+
 hexo d -g
 
 git add .
