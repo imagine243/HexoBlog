@@ -1,6 +1,7 @@
 title: 在mac终端中使用at命令
 date: 2015-09-19 22:02:43
 tags: mac at命令
+categories : mac
 ---
 
 ### 在mac终端中使用at命令

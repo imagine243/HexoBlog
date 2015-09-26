@@ -1,6 +1,7 @@
 title: Url编码 UrlEncode
 date: 2015-09-26 11:36:17
 tags: UrlEncode
+categories : http
 ---
 
 ### Url编码
