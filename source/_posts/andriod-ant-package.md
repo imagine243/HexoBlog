@@ -1,7 +1,9 @@
 title: android使用ant打包
 date: 2015-09-12 23:07:40
-tags: android ant package
-categories : android
+tags: Android 
+tags: ant 
+tags: package
+categories : Android
 ---
 
 ### android使用ant打包
