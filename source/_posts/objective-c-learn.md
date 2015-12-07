@@ -71,3 +71,19 @@ m文件中的实现
 
 #### @class  
 @class 只是引入class ，与#import 不同 。
+
+#### Foundation Kit 
+NSString 和 NSMutableString 就像 java中的String 和 StringBuffer ， NSString一旦创建就不可变，NSMutableString是可变的。
+
+NSArray数量不可变的，可以存储Objective－C的对象，不能存储c的数据类型。
+NSMutableArray 是数量可变，可以增加和删除对象的数组。
+
+#### 特性
+.h 文件中使用 @property 定义变量 .m 文件中使用 @synthesize 编译器自动生成实现
+@property (copy) NSString * name  // 在set函数中拷贝传入的参数 
+@property (retain) NSString * name // 在set函数中持有传入的参数，对参数retain 引用计数＋1
+
+@property (readwrite, copy) NSString * name //可以读可以写
+@property (readonly) float size //只能读
+
+@synthesize name ＝ realName  // 真正操作的变量是realName ， name只是生成的函数是 setName和 name。
