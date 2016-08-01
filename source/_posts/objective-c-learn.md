@@ -87,3 +87,4 @@ NSMutableArray 是数量可变，可以增加和删除对象的数组。
 @property (readonly) float size //只能读
 
 @synthesize name ＝ realName  // 真正操作的变量是realName ， name只是生成的函数是 setName和 name。
+
