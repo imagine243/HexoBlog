@@ -9,6 +9,9 @@ tags: tool
 - [百度云](https://yun.baidu.com) 看电影
 
 ## windows 工具
+### visual assist x 大番茄vs插件
+度娘盘／软件／visual assist x／
+搜索出破解中的的两个dll文件 并替换
 ### git tool
 - SourceTree
 
