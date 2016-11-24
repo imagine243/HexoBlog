@@ -8,14 +8,21 @@ tags: tool
 - [坚果云](https://www.jianguoyun.com/) 存储重要资料，个人数据，配置文件
 - [百度云](https://yun.baidu.com) 看电影
 
+### Markdown
+- [typora](http://www.typora.io/) 功能强大的的Markdown 编辑器 图片导入
+### git tool
+- SourceTree
+
 ## windows 工具
 ### visual assist x 大番茄vs插件
 度娘盘／软件／visual assist x／
 搜索出破解中的的两个dll文件 并替换
-### git tool
-- SourceTree
+
 
 ### sinppet tool 
 - PhraseExpress
 
+## Mac OS
+### Markdown
+- [MWeb](http://zh.mweb.im) 图片导入 表格
 
