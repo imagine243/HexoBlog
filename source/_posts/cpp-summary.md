@@ -2,7 +2,7 @@ title: cpp_summary
 date: 2017-02-23 18:11:54
 tags: cpp
 ---
-# summary abot reading <<cpp primer>>
+# summary about reading <<cpp primer>>
 
 ## Entering an End-of-File from the Keyboard
 
