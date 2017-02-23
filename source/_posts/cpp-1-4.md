@@ -1,6 +1,6 @@
 title: cpp_1.4
 date: 2017-02-23 17:58:50
-tags:
+tags: cpp
 ---
 # Reading an Unknown Number of Inputs
 
