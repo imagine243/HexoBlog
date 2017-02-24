@@ -154,4 +154,3 @@ double Sales_item::avg_price() const
 
 
 
-
