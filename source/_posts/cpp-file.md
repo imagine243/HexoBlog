@@ -1,4 +1,4 @@
-title: cpp_file
+Ititle: cpp_file
 date: 2016-09-03 23:16:02
 tags: c++
 ---
@@ -172,4 +172,6 @@ seekp ( offset, direction );
 ### buffer和同步
 
 在写入操作时是先写入了一块固定大小的buffer中，当文件关闭或者buffer满了就会写入文件，也可以调用sync() 将buffer写入文件
+
+
 
