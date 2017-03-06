@@ -34,3 +34,15 @@ tags: cpp
 
 这中间的机制是，原本ci进行了自动转化为const int类型。
 
+
+# 顶层const与底层const
+
+![](/uploads/14887833321005.jpg)
+
+![](/uploads/14887833419019.jpg)
+
+# constexpr 
+constexpr 类型定义一个编译器来验证变凉的值是否是一个常量表达式，关键是在编译期检查。
+constexpr 可以定义变量和函数。
+constexpr定义的指针是顶层const。
+
