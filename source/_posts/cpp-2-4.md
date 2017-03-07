@@ -46,3 +46,6 @@ constexpr 类型定义一个编译器来验证变凉的值是否是一个常量�
 constexpr 可以定义变量和函数。
 constexpr定义的指针是顶层const。
 
+# decltype
+
+
