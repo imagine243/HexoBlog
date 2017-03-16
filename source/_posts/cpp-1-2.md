@@ -1,4 +1,4 @@
-title: cpp_1.2
+title: A First Look at Input/Output
 date: 2017-02-23 17:35:02
 tags: cpp
 ---

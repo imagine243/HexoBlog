@@ -1,4 +1,4 @@
-title: cpp_summary
+title: summary about reading <<cpp primer>>
 date: 2017-02-23 18:11:54
 tags: cpp
 ---
@@ -37,4 +37,8 @@ C++, like C, is designed to let programs get close to the hardware when necessar
 * 使用int做数值运算
 * 不要char 和 bool 类型 在算数运算中
 * 使用 double类型做浮点运算
+
+# 建议：避免强制类型转换
+![](/uploads/14889592935857.jpg)
+
 

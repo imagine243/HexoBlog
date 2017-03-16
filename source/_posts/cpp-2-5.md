@@ -1,4 +1,4 @@
-title: cpp_2.5
+title: typedef
 date: 2017-03-06 15:08:56
 tags: cpp
 ---

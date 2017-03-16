@@ -1,4 +1,4 @@
-title: cpp_1.5
+title: 通过cin>> 读取 和cout<< 打印的类
 date: 2017-02-24 11:15:39
 tags: cpp
 ---

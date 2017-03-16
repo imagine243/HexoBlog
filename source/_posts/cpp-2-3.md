@@ -1,4 +1,4 @@
-title: cpp_2.3
+title: 复合类型
 date: 2017-02-27 17:42:55
 tags: cpp
 ---
