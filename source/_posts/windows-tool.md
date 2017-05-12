@@ -29,6 +29,7 @@ tags: tool
 - Alfred
 - iTerm
 - Dash
+### Karabiner-Elements 改键工具  比如把capslock 改为backspcace
 ### Markdown
 - [MWeb](http://zh.mweb.im) 图片导入 表格
 ### tilling windows 
