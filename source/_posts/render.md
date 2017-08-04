@@ -47,12 +47,15 @@ tags:
 ![](/uploads/15017541376178.jpg)
 
 Ax的效果就是让向量旋转到目的地
-![v2-342d39e9f3eb7d964ca3ddfeedf3dfa4](/uploads/v2-342d39e9f3eb7d964ca3ddfeedf3dfa4_r.jpg)
+![v2-342d39e9f3eb7d964ca3ddfeedf3dfa4](/uploads/v2-342d39e9f3eb7d964ca3ddfeedf3dfa4_r.jpg))
 
 
 ![](/uploads/15017544383403.png)
 
 
+[理解矩阵 一](http://blog.csdn.net/myan/article/details/647511)
+[理解矩阵 二](http://blog.csdn.net/myan/article/details/649018)
+[理解矩阵 三](http://blog.csdn.net/myan/article/details/1865397)
 ## 齐次坐标
 
 有向量v可以找到一组坐标 （v1，v2, v3)
@@ -96,9 +99,28 @@ y' = cameraY = Cross(cameraZ, cameraX)
 
 这样就可以得到从世界空间线性变换到摄像机空间的线性矩阵的线性变换
 
-
+$$
+\left[
+\begin{matrix}
+cameraX.x & cameraY.x & cameraZ.x \\
+cameraX.y & cameraY.y & cameraZ.y \\
+cameraX.z & cameraY.z & cameraZ.y
+\end{matrix}
+\right]
+$$
 
 还有从世界空间到摄像机空间的位移
+
+$$
+\left[
+\begin{matrix}
+1 & 0 & 0 & eye.x \\
+0 & 1 & 0 & eye.y \\
+0 & 0 & 1 & eye.z \\
+0 & 0 & 0 & 1
+\end{matrix}
+\right]
+$$
 
 可以得到以下公式
 
