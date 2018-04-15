@@ -33,3 +33,14 @@ nnoremap <F5> :buffers<CR>:buffer<Space>
 ```
 按下f5再输入buffer的id 或者名字  或者 tab选择都可以
 
+##### 搜索
+搜索当前光标下的单词  直接按 *
+
+
+```
+" Search for visually selected text use key //
+vnoremap // y/<C-R>"<CR>
+```
+搜索当前选中的文字  按两下//
+
+
